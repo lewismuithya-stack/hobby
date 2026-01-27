@@ -1,0 +1,12 @@
+nav{
+    margin: 10px;
+    background-color: skyblue;
+    border-radius: 300px;
+    padding: 7px;
+}
+
+nav:hover{
+    transform: scale(1.05);
+    background: linear-gradient(145deg, #00c3ff, #004080);
+    box-shadow: 0 0 20px #00c3ff, 0 0 40px #00c3ff;
+}
