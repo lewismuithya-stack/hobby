@@ -3,7 +3,9 @@ nav{
     background-color: skyblue;
     border-radius: 300px;
     padding: 7px;
-    width: 100%;
+    width: 75%;
+    display: flex;
+    justify-content: center;
 }
 
 nav:hover{
